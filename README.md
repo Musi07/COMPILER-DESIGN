@@ -4,25 +4,11 @@ Tokenizer & Lexical Analyzer (C++) .
 
                         This is a int sum = 10; and a + b = 20;
                         
-                                        ---------       Output        -----------
 
-  Token           Type
--------------------------
-This            Identifier
-is              Identifier
-a               Identifier
-int             Keyword
-sum             Identifier
-=               Operator
-10              Number
-;               Symbol
-and             Identifier
-a               Identifier
-+               operator
-b               Identifier
-=               Operator
-20              Number
-;               Symbol
+
+                                         -----------    OUTPUT        --------------
+                                         FIND IT INTO ANOTHER FILE NAMED OUTPUT .
+ 
 
                        
 ## 🔍 Token Types
@@ -44,7 +30,7 @@ Each token is displayed along with its corresponding type in a tabular format.
 ## ▶️ How to Run
 
 1. Compile the program :- g++ tokenizer.cpp -o tokenizer .
-2. Run the program
+2. Run the program.
 
 
  Author
