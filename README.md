@@ -1,4 +1,5 @@
 Tokenizer & Lexical Analyzer (C++) .
+
                                         ---------       input         -----------
 
                         This is a int sum = 10; and a + b = 20;
