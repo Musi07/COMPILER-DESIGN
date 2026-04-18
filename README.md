@@ -35,5 +35,7 @@ Each token is displayed along with its corresponding type in a tabular format.
 
  Author
 Name:MUSFIQUR   RAHMAN
+
 ID: 232031037
+
 Course: Compiler Design Lab
